@@ -24,7 +24,7 @@ Building trustworthy AI products where users can review outputs, validate inform
 
 ## Connect with me
 
-[LinkedIn](https://www.linkedin.com/in/harsh-panchal-1171a4432/)👋
+[LinkedIn](www.linkedin.com/in/harsh-p-1171a4432)👋
 
 <!--
 **harshpanchal0800-hash/harshpanchal0800-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
